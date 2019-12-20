@@ -1,0 +1,8 @@
+{
+  "name": "node-custom-lambda-v8.x",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.481.0",
+    "aws-xray-sdk-core": "^2.5.0"
+  }
+}
